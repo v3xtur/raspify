@@ -3,7 +3,7 @@ Raspify, the open-source Rapsberry Pi Spotify controller.
 ## Install guide
 **! IN ORDER TO BE ABLE TO USE THIS PROJECT, YOU MUST HAVE SPOTIFY PREMIUM !**
 
-**1. **In order to be able to use this project, you must install some libraries by running this code in your console:
+In order to be able to use this project, you must install some libraries by running this code in your console:
 ```pip install spotipy```
 ```pip install pygame```
 ```pip install os```
@@ -12,8 +12,8 @@ Raspify, the open-source Rapsberry Pi Spotify controller.
 ```pip install requests```
 Alternatively, you can use ```pip3 install``` if you have installed Python 3.4 or above.
 
-**2. **Create a folder named "raspify" and copy the code in it.
-**3. **Change the item values of `client_id` and `client_secret` from the file `.env`.
+Create a folder named "raspify" and copy the code in it.
+Change the item values of `client_id` and `client_secret` from the file `.env`.
 Done!
 ## Personalization Guide
 If you want to change my beautiful artwork, you can change the files titled
