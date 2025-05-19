@@ -18,6 +18,6 @@ Done!
 ## Personalization Guide
 If you want to change my beautiful artwork, you can change the files titled
 `previous.png` `pause.png` `next.png`
-If you want to change the fons, you can either add a new font file with the same name or add your font file and change the names of the fonts on lines 30 and 31 to your font name.
+If you want to change the fonts, you can either add a new font file with the same name or add your font file and change the names of the fonts on lines 30 and 31 to your font name.
 ## Credits
 Thanks to [pygame](pygame.org) and [spotipy](https://spotipy.readthedocs.io/en/2.25.1/) for making this project possible. Also, check out [Spotify](https://open.spotify.com).
